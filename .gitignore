@@ -7,5 +7,5 @@ Logs/
 UserSettings/
 *.csproj
 *.unityproj
-*.sln
+*.sln 
 *.user
